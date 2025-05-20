@@ -1,0 +1,78 @@
+
+New notification from teacher Maria.
+teacher's email: teacher.maria@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Math exam
+New math exam scheduled for Friday
+Attachment: 
+================
+*Teacher's Desk Notification*
+Sending time: 2025-05-20 19:37:11.842121
+
+New notification from teacher Maria.
+teacher's email: teacher.maria@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Math exam
+New math exam scheduled for Friday
+Attachment: 
+================
+*Teacher's Desk Notification*
+Sending time: 2025-05-20 19:37:12.332139
+
+New notification from teacher Maria.
+teacher's email: teacher.maria@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Math exam
+New math exam scheduled for Friday
+Attachment: 
+================
+*Teacher's Desk Notification*
+Sending time: 2025-05-20 19:37:12.505913
+
+New notification from teacher Maria.
+teacher's email: teacher.maria@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Math exam
+New math exam scheduled for Friday
+Attachment: 
+================
+*Teacher's Desk Notification*
+Sending time: 2025-05-20 19:37:12.672342
+
+New notification from teacher Maria.
+teacher's email: teacher.maria@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Math exam
+New math exam scheduled for Friday
+Attachment: 
+================
+*Teacher's Desk Notification*
+Sending time: 2025-05-20 19:37:12.818486
+
+New notification from teacher Maria.
+teacher's email: teacher.maria@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Math exam
+New math exam scheduled for Friday
+Attachment: 
+================
+*Teacher's Desk Notification*
+Sending time: 2025-05-20 19:37:12.983521
+
+New notification from teacher Maria.
+teacher's email: teacher.maria@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Math exam
+New math exam scheduled for Friday
+Attachment: 
+================
+*Teacher's Desk Notification*
+Sending time: 2025-05-20 19:37:45.440363
+

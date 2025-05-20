@@ -1,0 +1,77 @@
+New notification from student Sasha.
+student's email: student.sasha@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Problems with the toilet
+Blablablablabla
+Attachment: https://online-photos/photo/41234
+================
+*Sent via Student Portal*
+Sending time: 2025-05-20 19:37:11.842044
+
+New notification from student Sasha.
+student's email: student.sasha@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Problems with the toilet
+Blablablablabla
+Attachment: https://online-photos/photo/41234
+================
+*Sent via Student Portal*
+Sending time: 2025-05-20 19:37:12.332051
+
+New notification from student Sasha.
+student's email: student.sasha@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Problems with the toilet
+Blablablablabla
+Attachment: https://online-photos/photo/41234
+================
+*Sent via Student Portal*
+Sending time: 2025-05-20 19:37:12.505823
+
+New notification from student Sasha.
+student's email: student.sasha@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Problems with the toilet
+Blablablablabla
+Attachment: https://online-photos/photo/41234
+================
+*Sent via Student Portal*
+Sending time: 2025-05-20 19:37:12.672226
+
+New notification from student Sasha.
+student's email: student.sasha@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Problems with the toilet
+Blablablablabla
+Attachment: https://online-photos/photo/41234
+================
+*Sent via Student Portal*
+Sending time: 2025-05-20 19:37:12.818433
+
+New notification from student Sasha.
+student's email: student.sasha@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Problems with the toilet
+Blablablablabla
+Attachment: https://online-photos/photo/41234
+================
+*Sent via Student Portal*
+Sending time: 2025-05-20 19:37:12.983471
+
+New notification from student Sasha.
+student's email: student.sasha@mgu.com
+Send data: <class 'datetime.date'>
+================
+Subject: Problems with the toilet
+Blablablablabla
+Attachment: https://online-photos/photo/41234
+================
+*Sent via Student Portal*
+Sending time: 2025-05-20 19:37:45.440274
+
